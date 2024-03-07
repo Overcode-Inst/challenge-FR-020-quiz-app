@@ -6,9 +6,9 @@
     - [Requisitos funcionais ](#id01.2.1)
     - [Requisitos não funcionais ](#id01.2.2)
     - [Requisitos não obrigatórios](#id01.2.3)
+    - [Requisitos adicionais](#id01.2.4)
 - [Screenshots](#id02)
 - [O que aprendi](#id03)
-- [Mão a obra...](#id04)
 - [Pré-requisitos](#id05)
 - [Procedimentos de instalação](#id06)
 - [Desafios similares e dicas ](#id07)
@@ -20,7 +20,20 @@ Assim como Linus Torvalds disse "Falar é fácil, me mostre o código". Nós des
 
 E foi assim que essa abordagem nasceu, um roadmap baseado em projetos. A ideia em seu princípio é simples, essa é uma demanda, tente encarar como um desafio técnico e completá-lo em até 7 dias.
 
-Ao completar, não esqueça de publicar no linkedin e adicionar #handsOnRoadmap
+Para começar:
+
+- recomenda-se que crie um fork desse repositório
+- Leia atentamente os requisitos
+- Vá para parte que está escrito Requisitos adicionais e adicione pontos a mais que queira contemplar com esse projeto, se comenda nunca tirar um requisito, apenas adicionar.
+- Inicie o seu projeto e desenvolva normalmente.
+- Não esqueça de atualizar o readme com imagens do seu projeto e adicionar informações de autor
+  - As imagens podem ser salvas na pasta presentation
+- Quando terminar , envie um pull request para este repositório, explicando como você fez e quais foram suas principais dificuldades e aprendizados e se houveram requisitos adicionais descreva isso.
+
+  - não esqueça de adicionar um bom título a sua pr para pessoas que verem se interessarem e isso favorecer o networking
+  - a PR não será aceita para o repositório, mas isso regstrará sua participação.
+
+- Ao completar, não esqueça de publicar no linkedin e adicionar #handsOnRoadmap e se quiser pode me marcar.
 
 ## :trophy: O desafio <a name="id01.1"></a>
 
@@ -97,29 +110,37 @@ Você será bem avaliado se usar:
 
 <br />
 
+### :pushpin: Requisitos adicionais <a name="id01.2.4"></a>
+
+<br />
+
 # :camera_flash: Screenshots <a name="id02"></a>
 
 <br />
 
 ## :iphone: Mobile design
 
+![Mobile Design](./presentation/mobile.png)
+
 ## :iphone: Tablets design
+
+![Tablets Design](./presentation/tablet.png)
 
 ## :desktop_computer: Desktop design
 
+![Tablets Design](./presentation/tablet.png)
+
+## :desktop_computer: Resultado final
+
+![Tablets Design](./presentation/myWork.gif)
+
 # :heavy_check_mark: O que aprendi <a name="id03"></a>
-
-# 🛠 Mão a obra... <a name="id04"></a>
-
-Você pode forkar esse projeto e reutilizar o readme e estrutura, mas também se sinta livre para mudar ela ou mesmo criar a sua.
 
 # ☑️ Pré-requisitos para rodar <a name="id05"></a>
 
 <br />
 
-- [x] Editor de código de sua preferência (recomendado VS code)
-- [x] Git
-- [x] ?
+- [x] adicione os requisitos aqui
 
 <br />
 
@@ -127,17 +148,15 @@ Você pode forkar esse projeto e reutilizar o readme e estrutura, mas também se
 
 <br />
 
-Clone este repositório usando o comando:
+Adicione o processo para instalar o projeto abaixo e se quiser crie mais espaços de código:
 
 ```bash
-git clone https://github.com/<meu_user>/<my-repo>.git
+#processos aqui
 ```
 
 ```bash
 #processos adicionais aqui
 ```
-
-<br />
 
 # 👨🏾‍💻 Desafios similares e dicas <a name="id07"></a>
 
@@ -153,6 +172,5 @@ Você também pode usar o dribbble para se inspirar.
 
 <br />
 
-- Linkedin - [Jean Carlos De Meira](https://www.linkedin.com/in/jeanmeira/)
-- Instagram - [@jean.meira10](https://www.instagram.com/jean.meira10/)
-- GitHub - [JCDMeira](https://github.com/JCDMeira)
+- Linkedin:
+- GitHub:
