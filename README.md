@@ -16,10 +16,6 @@
 
 # 🚀 Proposta <a name="id01"></a>
 
-Assim como Linus Torvalds disse "Falar é fácil, me mostre o código". Nós desenvolvedores nunca vamos aprender a programar e desenvolver software sem efetivamente codar, é como tentar aprender a andar de bicicleta lendo livros e vendo vídeos.
-
-E foi assim que essa abordagem nasceu, um roadmap baseado em projetos. A ideia em seu princípio é simples, essa é uma demanda, tente encarar como um desafio técnico e completá-lo em até 7 dias.
-
 Para começar:
 
 - recomenda-se que crie um fork desse repositório
